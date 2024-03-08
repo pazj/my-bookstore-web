@@ -1,5 +1,6 @@
-HEAD
+
 # my-bookstore-web
+A complete Frontend  Responsive e-commerce book website using React JS + Vite.
 
 # React + Vite
 
